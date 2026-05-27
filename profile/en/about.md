@@ -1,6 +1,4 @@
-# About / À propos
-
-## EN
+# About
 
 I am a Kotlin & Java Developer with 9 years of experience.
 
@@ -19,7 +17,3 @@ I assist teams and clients in delivering scalable, enterprise-grade services, fr
 I am interested in Senior Developer & Tech Lead roles where I can promote the adoption of good software engineering practices within the team.
 
 Having lived in Asia for 5 years, I developed a strong adaptability and an open-minded approach to working in international environments.
-
-## FR
-
-<!-- TODO: Translate or paste LinkedIn FR version -->
