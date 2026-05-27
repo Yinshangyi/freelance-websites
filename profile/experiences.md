@@ -130,7 +130,7 @@
 - **Contract:** Permanent
 - **Date:** Mar 2025 – Dec 2025
 - **Location:** Paris, Île-de-France, France (Hybrid)
-- **Tags:** Java, GCP, Terraform, Springboot, Apache Beam, Vavr, GraalVM
+- **Tags:** Java, GCP, Terraform, Springboot, Apache Beam, Vavr, GraalVM, BigQuery
 
 ### EN
 
@@ -194,7 +194,7 @@
 - **Title EN:** Lead Data Engineer | Full Stack Developer
 - **Title FR:** Lead Data Engineer | Développeur Full Stack
 - **Contract:** Permanent
-- **Date:** Feb 2024 – Jan 2025
+- **Date:** Feb 2024 – Feb 2025
 - **Location:** Paris, Île-de-France, France (Hybrid)
 - **Tags:** AWS, Terraform, Express, TypeScript, React, Python, Snowflake, Snowpark, Dagster
 
